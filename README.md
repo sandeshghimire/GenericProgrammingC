@@ -7,5 +7,9 @@ atoi - Parses the C-string str interpreting its
        returned as a value of type int.
 
 
+memory - memcpy  - copies memory from src to dest  
+         memmove - copies memory from src to dest making sure memory is not overlapped 
+
+
 ```
 
